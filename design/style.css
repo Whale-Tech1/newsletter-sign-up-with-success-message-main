@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(4, 55, 7, 0.581);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    background-color:#ffff;
+    max-width: 400px;
+    height: 40%;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    gap: ;
+    display:flex;
+    margin-bottom: 80px;
+    border-radius: 10px;
+}
+button{
+    background-color: rgb(247, 46, 46);
+    width: 150px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px 8px 4px brown
+}

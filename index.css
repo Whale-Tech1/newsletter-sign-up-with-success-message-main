@@ -1,0 +1,45 @@
+body{
+    background-color:rgba(76, 2, 76, 0.278);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    
+}
+.container{
+    background-color:#ffff;
+    max-width: 600px;
+    border: 1px solid grey;
+    padding: 20px;
+    display:flex;
+    margin-bottom: 80px;
+    border-radius: 10px;
+}
+.ben{
+    text-align: column;
+}
+
+.greg{
+    width: 100%;
+    align-items: end;
+}
+input{
+    margin: 7px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+button{
+height: 25px;
+margin: 5px;
+background-color: hsl(4, 100%, 67%);
+border: none;
+border-radius: 5px;
+}
+.button{
+    pointer-events: initial;
+}
+
+.colum{
+    border: #ffff;
+}
